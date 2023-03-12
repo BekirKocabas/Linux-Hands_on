@@ -1,2 +1,2 @@
 # Linux-Hands_on
-Linux-Handson Projekte
+Linux Handson Projekte
