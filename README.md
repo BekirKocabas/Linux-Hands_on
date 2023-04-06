@@ -7,32 +7,32 @@ Linux Hands On Studies
 <hr>
 
 ## Index 📜
-### 🔖 [Managing files in Linux](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/Linux-plus-1-hands-on.md)
+### 🔖 [Managing files in Linux](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/1-Managing_files_in_Linux.md)
 Purpose of the this hands-on training is to teach the students how to manage files in Linux.
 
-### 🔖 [Environment variables](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/Linux-plus-2-hands-on.md)
+### 🔖 [Environment variables](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/2-Environment_variables.md)
 Purpose of the this hands-on training is to teach the students how to use environment variables.
 
-### 🔖 [Managing users and groups](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/Linux-plus-3-hands-on.md)
+### 🔖 [Managing users and groups](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/3-Managing_users_and_groups.md)
 Purpose of the this hands-on training is to teach the students how to manage users and groups.
 
-### 🔖 [Using package managers](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/Linux-plus-4-hands-on.md)
+### 🔖 [Using package managers](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/4-Using_package_managers.md)
 Purpose of the this hands-on training is to teach the students how to use package managers in Linux.
 
-### 🔖 [Filters and Control Operators](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/Linux-plus-5-hands-on.md)
+### 🔖 [Filters and Control Operators](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/5-Filters_and_Control_Operators.md)
 Purpose of the this hands-on training is to teach the students how to use filters and control operators in Linux.
 
-### 🔖 [Sed & Awk & Crontab](https://github.com/medipnegiz/linux_hands_on/blob/main/6_Sed_Awk_Crontab.md)
-Purpose of the this hands-on training is to teach the students how to use sed & awk command and crontab.
-
-### 🔖 [Shell Scripting Basics]([https://github.com/medipnegiz/linux_hands_on/blob/main/7_Shell_Scripting_Basics.md](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/Linux-plus-6-hands-on.md))
+### 🔖 [Shell Scripting Basics](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/6-Shell_Scripting_Basics.md)
 Purpose of the this hands-on training is to teach the students how to script in shell.
 
-### 🔖 [Shell Scripting Conditional Statements](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/Linux-plus-7-hands-on.md)
+### 🔖 [Shell Scripting Conditional Statements](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/7-Shell_Scripting_Conditional_Statements.md)
 Purpose of the this hands-on training is to teach the students how to use conditional statements in shell.
 
-### 🔖 [Shell Scripting Tools](https://github.com/medipnegiz/linux_hands_on/blob/main/9_Shell_Scripting_Tool.md)
+### 🔖 [Shell Scripting Tools](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/8-Shell_Scripting_Tools.md)
 Purpose of the this hands-on training is to teach the students how to use loops in shell.
 
-### 🔖 [Shell Scripting Functions](https://github.com/medipnegiz/linux_hands_on/blob/main/10_Shell_Scripting_Functions.md)
+### 🔖 [Shell Scripting Functions](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/9-Shell_Scripting_Functions.md)
 Purpose of the this hands-on training is to teach the students how to use functions in shell.
+
+### 🔖 [Sed & Awk & Crontab](https://github.com/BekirKocabas/Linux-Hands_on/blob/main/10-Sed_awk_crontab.md)
+Purpose of the this hands-on training is to teach the students how to use sed & awk command and crontab.
