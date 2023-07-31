@@ -121,7 +121,7 @@ export CLARUS=env.var
 WAY=shell.var
 cd test
 nano test1.sh
-# copy and paste the code-echo "normally we should see env. variable $CLARUS but probably we can't see the shell variable $WAY "
+# copy and paste the code- echo "normally we should see env. variable $CLARUS but probably we can't see the shell variable $WAY "
 chmod +x test1.sh
 ./test1.sh
 ```

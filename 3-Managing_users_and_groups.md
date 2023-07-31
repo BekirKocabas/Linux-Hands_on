@@ -30,7 +30,7 @@ sudo su
 pwd
 whoami
 su ec2-user
-sudo su -
+sudo su - #farkli bir betikte oturum aciyor
 pwd
 ```
 ​
@@ -91,7 +91,7 @@ su user2
 ```bash
 exit
 cat /etc/passwd
-tail -3 /etc/passwd
+tail -3 /etc/passwd #son 3 kullanici
 ```
 ​
 - useradd.
