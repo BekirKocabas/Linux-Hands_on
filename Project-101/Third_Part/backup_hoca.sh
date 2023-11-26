@@ -40,7 +40,3 @@ tar -czvf $FILENAME $DIR
 #print the backup file
 echo "backup file is creating $FILENAME"
 done
-
-
-
-
